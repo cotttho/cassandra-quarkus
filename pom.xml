@@ -33,7 +33,7 @@
     Note: when upgrading the Quarkus version or the DataStax Java driver version, make sure that you
     upgrade them in the quickstart module too.
     -->
-    <quarkus.version>2.0.0.CR1</quarkus.version>
+    <quarkus.version>2.0.0.CR3</quarkus.version>
     <datastax-java-driver.version>4.12.0-SNAPSHOT</datastax-java-driver.version>
     <!-- FIXME set javadoc url to 4.12 when released -->
     <datastax-java-driver.javadoc.version>4.11</datastax-java-driver.javadoc.version>
